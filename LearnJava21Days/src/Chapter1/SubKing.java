@@ -4,6 +4,7 @@
     //We will create an object later in an application called ChessInheritanceApplication to put both the
     //SubKing and SuperChess class to use.
     //The SuperChess and SubKing class is an illustration of Inheritance.
+    //Final creates a constant variable.
     //static keyword is used to create class instances and methods unique to the class itself.
     //I also use final keyword to indicate variables which are constant and not vulnerable to external changes.
     //private keyword adds another level of security to prevent external access outside from this class.
