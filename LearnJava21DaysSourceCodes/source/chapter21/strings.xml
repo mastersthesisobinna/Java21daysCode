@@ -1,0 +1,7 @@
+<!-- Solution to Chapter 21, Exercise 1 in Teach Yourself Java in 21 Days (Covering Java 8 and Android by Rogers Cadenhead. -->
+<resources>
+    <string name="app_name">Palindrome2</string>
+
+    <string name="hello_world">Able was I ere I saw Elba</string>
+    <string name="action_settings">Settings</string>
+</resources>
