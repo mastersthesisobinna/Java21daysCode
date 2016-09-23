@@ -1,4 +1,4 @@
-/*
+/**
     //Notice I don't have to define color or position here since I inherit it from the SuperChess class.
     //This program like the SuperChess class will not run as an application.
     //We will create an object later in an application called ChessInheritanceApplication to put both the

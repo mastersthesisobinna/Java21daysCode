@@ -1,4 +1,4 @@
-/*
+/**
     //Superclass here defines all that is common across all chess piece object.
     //All chess piece object has a color and where on the board that they start.
     //They also have movements but this movements are not defined here because
